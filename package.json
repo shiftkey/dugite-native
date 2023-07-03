@@ -11,14 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/desktop/dugite-native.git"
+    "url": "git+https://github.com/shiftkey/dugite-native.git"
   },
   "author": "",
   "license": "GPL-2.0-only",
-  "bugs": {
-    "url": "https://github.com/desktop/dugite-native/issues"
-  },
-  "homepage": "https://github.com/desktop/dugite-native#readme",
+  "homepage": "https://github.com/shiftkey/dugite-native#readme",
   "devDependencies": {
     "@octokit/rest": "^18.0.9",
     "@types/glob": "^7.1.3",
