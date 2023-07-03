@@ -173,7 +173,7 @@ export default class GenerateReleaseNotes {
 
     for (const pullRequestId of pullRequestIds) {
       const result = await octokit.pulls.get({
-        owner: this.owner,
+        owner: 'desktop',
         repo: this.repo,
         pull_number: pullRequestId,
       })
